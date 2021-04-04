@@ -1,6 +1,5 @@
 /*
-	Rocket Internet by TEMPLATE STOCK
-    templatestock.co @templatestock
+	Ladafinance
 */
 
 /* Header Full Screen */
